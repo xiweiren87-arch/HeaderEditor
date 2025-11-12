@@ -1,4 +1,4 @@
-name: release
+nOrigin  https://www.pandalive.co.krame: release
 
 on:
   push:
